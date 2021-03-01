@@ -1,2 +1,2 @@
-# rust_project_managment
-A project managment application implemented in Rust
+# rust_project_management
+A project management application implemented in Rust
